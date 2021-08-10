@@ -1,5 +1,5 @@
 ASCII Value = 97(a)
-++++++ adds 5 to first cell
++++++ adds 5 to first cell
 [ loop starts
 > goes to next cell
 ++++++++++++++++ adds 16 to second cell
