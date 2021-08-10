@@ -9,7 +9,7 @@
 > .moves to next cell
 +.> .adds 1 and prints and jumps to next cell
 
-[.........]
+
 
 .ASCII Value = 98(b)
 +++++ .adds 5 to first cell
@@ -21,3 +21,33 @@
 ] .loop runs till the value in first cell drops to 0
 > .moves to next cell
 +++.> .adds 3 to it
+
+
+.ASCII Value = 99(c)
+
++++++++++ .adds 9 to first cell
+[ .loop starts
+> .goes to next cell
++++++++++++ .adds 11 to it
+< .goes back to previous cell
+- .decreases 
+] .loop runs till value in first cell drops to 0
+> .moves to next cell
+.> prints the character
+
+.ASCII Value = 100(d)
+
+++++++++++ .adds 10 to the first cell
+[ .loop starts
+> .goes to next cell
+++++++++++ .adds 10 to it
+< .goes back to previous cell
+- .decreases 
+] .loop runs till value in first cell drops to 0
+> .moves to next cell
+.> prints the character
+
+.ASCII Value = 101(e)
+
+
+
