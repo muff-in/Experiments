@@ -16,7 +16,7 @@
 [ .loop starts
 > .goes to next cell
 +++++++++++++++++++ .adds 19 to it
-< .goes back to next cell
+< .goes back to previous cell
 - .decreases
 ] .loop runs till the value in first cell drops to 0
 > .moves to next cell
