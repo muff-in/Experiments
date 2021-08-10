@@ -196,7 +196,128 @@ ASCII Value = 112(p)
 ] loop runs untill the  value of first cell drops to 0
 >++. goes to next cell and adds 2 and prints the character
 
+ASCII Value = 113(q)
+++++++++++ Adds 10 the first cell
+[ loop starts
+> goes to next cell
++++++++++++ adds 11 to it 
+< goes back to first cell
+- decreases the value 
+] loop runs untill the  value of first cell drops to 0
+>+++. goes to next cell and adds 2 and prints the character
 
 
+ASCII Value = 114(r)
+++++++
+[
+>
++++++++++++++++++++
+<
+-
+]
+>.
+
+
+ASCII Value = 115(s)
++++++
+[
+>
++++++++++++++++++++++++
+<
+-
+]
+>.
+
+ASCII Value = 116(t)
+
+++++
+[
+>
++++++++++++++++++++++++++++++
+<
+-
+]
+>.
+
+ASCII Value = 117(u)
+
++++++++++
+[
+>
+++++++++++++
+<
+-
+]
+>.
+
+ASCII Value = 118(v)
+
++++++
+[
+>
++++++++++++
+<
+-
+]
+>++++
+<+++++
+[
+>
++++++++++++
+<
+-
+]
+>++++.
+
+ASCII Value = 119(w)
++++++
+[
+>
++++++++++++
+<
+-
+]
+>++++
+<+++++
+[
+>
++++++++++++
+<
+-
+]
+>+++++.
+
+ASCII Value = 120(x)
+
+++++++
+[
+>
+++++++++++++++++++++
+<
+-
+]
+>.
+
+ASCII Value = 121(y)
+
++++++++++++
+[
+>
++++++++++++
+<
+-
+]
+>.
+
+ASCII Value = 122(z)
+
++++++++++++
+[
+>
++++++++++++
+<
+-
+]
+>+.
 
 
