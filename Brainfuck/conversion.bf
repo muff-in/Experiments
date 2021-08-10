@@ -166,7 +166,35 @@ ASCII Value = 109(m)
 >+. goes to next cell and adds 1 and prints
 
 
+ASCII Value = 110(n)
+++++++++++ Adds 10 the first cell
+[ loop starts
+> goes to next cell
++++++++++++ adds 11 to it 
+< goes back to first cell
+-
+]
+>. goes to next cell and prints the character
 
+ASCII Value = 111(o)
+++++++++++ Adds 10 the first cell
+[ loop starts
+> goes to next cell
++++++++++++ adds 11 to it 
+< goes back to first cell
+- decreases the value in first cell
+] loop runs untill the  value of first cell drops to 0
+>+. goes to next cell and adds 1 and prints the character
+
+ASCII Value = 112(p)
+++++++++++ Adds 10 the first cell
+[ loop starts
+> goes to next cell
++++++++++++ adds 11 to it 
+< goes back to first cell
+- decreases the value 
+] loop runs untill the  value of first cell drops to 0
+>++. goes to next cell and adds 2 and prints the character
 
 
 
