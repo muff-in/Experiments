@@ -5,3 +5,5 @@
 **2** . *Input in Brainfuck*
 
 **3** . *Copy a value from cell and print*
+
+**4** . *Multiplication*
