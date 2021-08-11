@@ -1,4 +1,4 @@
-## Experiment
+## Experiment by ![ElementalX](https://twitter.com/ElementalX2) & ![Muffin](https://twitter.com/_muffin31)
 
 **1** . *ASCII to Brainfuck*
 
